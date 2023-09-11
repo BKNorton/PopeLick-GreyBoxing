@@ -4,8 +4,7 @@ DESCRIPTION:
 	This is the code that I have created for my video game, "Pope Lick" so far. This code will 
  	not work on its own. It is connected to a Unity project and requires the project to run. 
   	This repository is on here just to demonstrate my C# knowledge to potential employers. This 
-   	project currently uses Unity's built in version controller formerly know as Plastic. I am 
-    	in the process right now of creating a website to showcase the features of this project.
+   	project currently uses Unity's built in version controller formerly know as Plastic. 
 
 
 
