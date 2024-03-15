@@ -176,3 +176,7 @@ I also light map baking to create llight maps for the current scenes.
 	Check back soon for a link to the website to showcase all of our work so far. I also plan to start a social media account and a dev blog for this project as soon as we start it back up.
 </p>
 	
+![OfficeScene](https://github.com/BKNorton/PopeLick-GreyBoxing/assets/112774855/6c738d9e-4d3a-4a0a-84d0-a2d92eb90044)
+![Screenshot (3)](https://github.com/BKNorton/PopeLick-GreyBoxing/assets/112774855/28ede830-8131-4c25-acdc-b73fbbfca0ca)
+![Screenshot (2)](https://github.com/BKNorton/PopeLick-GreyBoxing/assets/112774855/e3979793-a0de-44e8-bbd3-641eda2f123b)
+![Screenshot (5)](https://github.com/BKNorton/PopeLick-GreyBoxing/assets/112774855/286359a1-778b-425e-9706-8bf53f1a85c1)
