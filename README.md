@@ -163,6 +163,13 @@ I also light map baking to create llight maps for the current scenes.
    I plan to make a website to display screenshots and videos to showcase all the work that we did and plan to recreate in a more optimal and organized way.
 <p>
 <h2>
+	Instructions
+</h2>
+<p>
+	This repository only contains the scripts for this game. All other assets are not included and therfore this game can not be ran from this repository. This is just to include in my portfolio and more details will be added soon.
+</p>
+ 
+<h2>
 	Updates
 </h2>
 <p>
