@@ -190,6 +190,14 @@ I also light map baking to create llight maps for the current scenes.
 </h2>
 
 ![Screenshot (3)](https://github.com/BKNorton/PopeLick-GreyBoxing/assets/112774855/28ede830-8131-4c25-acdc-b73fbbfca0ca)
+
+<h2>
+	Test Scene
+</h2>
+<p>
+	I created this whole scene to test in. I created the fire and smoke assets with the particle system.
+</p>
+
 ![Screenshot (2)](https://github.com/BKNorton/PopeLick-GreyBoxing/assets/112774855/e3979793-a0de-44e8-bbd3-641eda2f123b)
 
 <h2>
