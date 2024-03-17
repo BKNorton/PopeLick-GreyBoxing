@@ -102,9 +102,9 @@ The player casts a ray from the center of the cameras FOV. Data from the hitColl
 	Inventory System
 </h3>
 <p>
-	A class system that allows items to be stored in containers. The player has its own container (inventory) that is represented in the UI for the player menu.
+	A system that allows items to be stored in containers. The player has its own container (inventory) that is represented in the UI for the player menu.
 
- Player can use interaction system to pick up items and store them in the inventory.
+ Player can use the interaction system to pick up items and store them in the inventory.
 
 When finished the player will have more options to interact with items in the inventory like, drop, or place in another container from the inventory.
 </p>
@@ -116,7 +116,7 @@ When finished the player will have more options to interact with items in the in
 	<li>Crosshairs</li>
 	<li>Interactable Item Text (Interactable items will prompt the user with a message displayed in the Player HUD to describe the object or the interaction type.</li>
 	<li>Menu (Currently just allows player to pause the game, veiw the menu, and return to the game.</li>
-	<li>Player menu (Displays Inventory, Camera with slot for Film, and slots for items to equip, one for each hand)</li>
+	<li>Player Menu (Displays Inventory, Camera with slot for Film, and slots for items to equip, one for each hand. Just a stand-in for testing pourposes)</li>
 	<ul><li>Currently only the inventory is interactable. Items can be selected and moved to different inventory slots.</li></ul>
 </ul>
 
@@ -124,7 +124,9 @@ When finished the player will have more options to interact with items in the in
 	Animations
 </h3>
 <p>
-	I believe right now the only animations being used are the ones to simulate the players head bobbing as the walk or run.
+	I believe right now the only animations being used are the ones to simulate the players head bobbing as they walk or run. 
+	
+   Also the animation to open the car door when the player interacts with it.
 </p>
 
 <h3>
@@ -133,11 +135,7 @@ When finished the player will have more options to interact with items in the in
 <p>
 	I have been learning how to improve the lighting in the game using Post Processing to add a grainy look, bloom, and other effects.
 
-I also light map baking to create llight maps for the current scenes.
-</p>
-
-<p>
-	When I first started this project, I did not know about version control. Unfortunately for me that means after breaking my camera system and so far unsuccessfuly trying to fix it, I am not able to revert back to a previous commit.
+Bake light maps to improve the visual quality of the scene.
 </p>
 
 <h2>
@@ -148,12 +146,9 @@ I also light map baking to create llight maps for the current scenes.
 	
    We are now using the version control that is built into Unity (Plastic SCM).
 
-   We are currently rebuilding everything we've made so far.
-	
-   We are rebuilding because a lot of what we did previously turned out to not be optimized. My code was a mess and was not following good coding practices. Things were not properly decoupled which has lead to the current state of the camera system. 
+   We are currently rebuilding everything we've made so far to optimize. 
    
-   All assets that Anthony was building were not optimized with low poli counts or properly 
-   oriented UVs which was causing Texture issues.
+   We were having issues with all the assets having high poli counts and the UVs were not oriented properly which was causing problems when we tried to apply the textures in Unity.
 	
    Now that I know how to work with version control and Anthony and I are able to work on the same repository, redefine our workflow and rebuild our game, I will no longer be making any commits to this repository. 
    
