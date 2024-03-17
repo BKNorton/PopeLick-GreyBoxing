@@ -175,8 +175,28 @@ I also light map baking to create llight maps for the current scenes.
 <p>
 	Check back soon for a link to the website to showcase all of our work so far. I also plan to start a social media account and a dev blog for this project as soon as we start it back up.
 </p>
-	
+
+ <h2>
+	 Office Scene
+ </h2>
+ <p>
+	 This is the first scene. Anthony created all the assets and I added the textures and did the lighting design.
+ </p>
+ 
 ![OfficeScene](https://github.com/BKNorton/PopeLick-GreyBoxing/assets/112774855/6c738d9e-4d3a-4a0a-84d0-a2d92eb90044)
+
+<h2>
+	Pause Menu
+</h2>
+
 ![Screenshot (3)](https://github.com/BKNorton/PopeLick-GreyBoxing/assets/112774855/28ede830-8131-4c25-acdc-b73fbbfca0ca)
 ![Screenshot (2)](https://github.com/BKNorton/PopeLick-GreyBoxing/assets/112774855/e3979793-a0de-44e8-bbd3-641eda2f123b)
+
+<h2>
+	Camera System
+</h2>
+<p>
+	Player takes a photo and it prints to this gameobject.
+</p>
+
 ![Screenshot (5)](https://github.com/BKNorton/PopeLick-GreyBoxing/assets/112774855/286359a1-778b-425e-9706-8bf53f1a85c1)
